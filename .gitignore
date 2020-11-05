@@ -1,0 +1,14 @@
+.DS_Store
+yarn-error.log
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.vscode/
+.dynamodb/
+.webpack/
+localstack/
+env.yml
